@@ -37,7 +37,7 @@ This is a Quiz App.I have used a API(opentdb) for random questions,here user wil
   
 <h1>🌟 Live link</h1>
   
-<a href="shubh-quiz-app-project.netlify.app" target="_blank">click to Play Quiz</a>
+<a href="https://shubh-quiz-app-project.netlify.app" target="_blank">click to Play Quiz</a>
   
 <h1>👨‍💻 Tech stack</h1>
 
