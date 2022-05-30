@@ -10,7 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 <h1>🧐 About this Project</h1>
 <br />
-This is a Quiz App.I have used a API(opentdb) for random questions,here user will get a score of 10 for every correct question, after complete the quiz user will get total score. Here User also check highscores.
+This is a Quiz App. I have used an API(opentdb) for random questions,here user will get a score of 10 for every correct question, after complete the quiz user will get total score. Here User also check highscores.
 <h2 style="text-align:center ; background: black;color: white;">Main page</h2>
 
   
